@@ -21,6 +21,7 @@ This is a simple, colorful, and responsive **Online Quiz App** created using **H
 ## 🔗 Live Project
 
 👉 [View Live Quiz App Project] https://sharnagatshalini.github.io/CodSoft-Level-2-task-2/
+
 ## 🗂️ Folder Structure
 
 quiz-app/
@@ -29,5 +30,4 @@ quiz-app/
 └── script.js
 
 
-Copy
-Edit
+
